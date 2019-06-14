@@ -5,7 +5,7 @@ layout: project
 authors: [driscoll]
 date: 2019-06-06
 aliases:
-  “/fnc/“
+  - /fnc/
 summary: "Undergraduate textbook in computational mathematics."
 featured: true
 profile: false
