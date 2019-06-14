@@ -63,9 +63,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://tobydriscoll.github.io/markdown-cv/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,3 +78,5 @@ email: ""
 ---
 
 Toby Driscoll is a professor in the Department of Mathematical Sciences at the University of Delaware. His research interests are in scientific computation, mathematical software, and applications of mathematics in the life sciences. He is the head of the [Center for Applications of Mathematics in Medicine](https://www.mathandmedicine.org) at UD. 
+
+{{% staticref "cv.pdf" %}}Download my CV{{% /staticref %}}
