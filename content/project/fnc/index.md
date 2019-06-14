@@ -4,6 +4,8 @@ tags: [book,matlab,scientific computing,teaching]
 layout: project
 authors: [driscoll]
 date: 2019-06-06
+aliases:
+  “/fnc/“
 summary: "Undergraduate textbook in computational mathematics."
 featured: true
 profile: false
@@ -20,7 +22,7 @@ image:
 
 {{< figure src="featured.jpg" width="160" alt="FNC cover" >}}
 
-This textbook is designed to introduce undergraduates in math, computer science, engineering, and related fields to the principles and practice of numerical computation. Our approach emphasizes linear algebra and approximation. The text presents mathematical underpinnings and analysis, complemented with 45 functions and over 160 examples coded in MATLAB, all [available for download](http://github.com/tobydriscoll/fnc-extras). Previous experience in MATLAB is not required. 
+This textbook is designed to introduce undergraduates in math, computer science, engineering, and related fields to the principles and practice of numerical computation. Our approach emphasizes linear algebra and approximation. The text presents mathematical underpinnings and analysis, complemented with 45 functions and over 160 examples coded in MATLAB, all [available for download](http://github.com/tobydriscoll/fnc-extras). Previous experience in MATLAB is not required. The functions and examples have also been implemented in Julia and Python.
 
 The text is organized to be useful for either a one-semester introduction or two-semester sequence, with the most advanced techniques and concepts held back for the second half of the book. 
 
@@ -30,7 +32,7 @@ Please note the [known errata](https://github.com/tobydriscoll/fnc-extras/blob/m
 
 The book's functions and example scripts can be [downloaded as a MATLAB toolbox](https://github.com/tobydriscoll/fnc-extras/raw/master/Fundamentals%20of%20Numerical%20Computation.mltbx) and installed by double-clicking the file. Alternatively, you can visit the [Github page](http://github.com/tobydriscoll/fnc-extras) that has the needed files, as well as suggested in-class labs and projects, slides for instructors, and links to some (slightly outdated) videos linked to the text.
 
-There are also [Julia versions](https://github.com/tobydriscoll/fnc-extras/tree/master/julia) of the function and example files.  
+There are also [Julia versions](https://github.com/tobydriscoll/fnc-extras/tree/master/julia) and [Python versions](https://github.com/tobydriscoll/fnc-extras/tree/master/python) of the function and example files.  
 
 ### Contents
 
