@@ -16,7 +16,8 @@ image:
   focal_point: "Top"
   preview_only: true
 aliases:
-  - /SC/
+    - /SC/
+    - /sc/
 ---
 The SC Toolbox is a problem-solving environment for computation and interaction with conformal maps to regions bounded by polygons, including unbounded regions, logical quadrilaterals, and channels. It includes a module for the solution of the Laplace equation on such regions with piecewise constant boundary conditions, to ten digits or more in seconds. Nearly all of the Toolbox functions are accessible through a graphical interface.
 
