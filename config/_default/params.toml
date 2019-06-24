@@ -46,7 +46,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Make both /sc and /SC aliases work
-disablePathToLower = true
+#disablePathToLower = true
 
 ############################
 ## Contact Widget setup   ##
