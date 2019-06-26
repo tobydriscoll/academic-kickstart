@@ -19,7 +19,8 @@ image:
   focal_point: "TopLeft"
   preview_only: true
 ---
-* Buy at the [SIAM bookstore](http://bookstore.siam.org/OT154). Members of SIAM, including [student members](http://siam.org/students/memberships.php), get a 30% discount.    
+* **Buy in print** at the [SIAM bookstore](http://bookstore.siam.org/OT154). Members of SIAM, including [student members](http://siam.org/students/memberships.php), get a 30% discount. 
+* **Buy an e-book** at the [Google Play store](https://bit.ly/FNC-ebook). A rental option is also available.   
 
 {{< figure src="featured.jpg" width="160" alt="FNC cover" >}}
 
