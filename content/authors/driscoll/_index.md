@@ -57,6 +57,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/tobydriscoll
+- icon: youtube 
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCcDR49dQ8fGiJfF-vAxEDNw
 - icon: orcid 
   icon_pack: ai
   link: https://orcid.org/0000-0002-1490-2545
